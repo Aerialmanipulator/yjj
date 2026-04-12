@@ -1,0 +1,38 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+
+# OS and temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Build and packaging artifacts
+dist/
+build/
+*.egg-info/
+
+# Local archives and generated outputs
+*.zip
+*.7z
+*.rar
+
+# PyBullet or simulation outputs
+*.bullet
